@@ -33,4 +33,4 @@ The model has been trained on a diverse dataset of bird images, covering various
 
 ---
 
-For further information, questions, or issues, please open an issue on this repository or contact me at [gmail](mail:zaenalalfian20@gmail.com)
+For further information, questions, or issues, please open an issue on this repository or contact me at [gmail](mailto:zaenalalfian20@gmail.com)
